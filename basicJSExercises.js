@@ -13,13 +13,13 @@ Output:
  --------------------------- */
 
 function areaTriangle(base, height) {
-  return "No code yet";
+  return 0.5 * base * height;
 }
 console.log("Triangle Area Calculator:");
 /* Uncomment the following to check */
-  // console.log(areaTriangle(2, 7));
-  // console.log(areaTriangle(20, 56.5));
-  // console.log(areaTriangle(50, 34));
+   console.log(areaTriangle(2, 7));
+   console.log(areaTriangle(20, 56.5));
+   console.log(areaTriangle(50, 34));
 
 
 
